@@ -145,7 +145,7 @@ body * {
   color: #111;
 }
 
-#articles .post a, 
+#articles .post a,
 #articles .post a:visited{
   text-decoration: none;
 }
@@ -272,6 +272,10 @@ body * {
 
 .social-item.home {
   background: #ffd00e;
+}
+
+.social-item.linkedin {
+  background: #0177B5;
 }
 
 .social-item.github {
